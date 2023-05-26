@@ -1,0 +1,8 @@
+[
+  {
+    "name": "tool_list",
+    "kind": "checkbox",
+    "message": "Choose the tools you want to add to your chatbot",
+    "choices": ["llm-math", "serpapi", "wikipedia"]
+  }
+]
