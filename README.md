@@ -13,3 +13,7 @@ corby new chatbot
 ```
 
 Select `langchain-chatbot-tools` on the list of available templates
+
+## 📚 More info
+
+[Discover more about Corby 🤖 here!](https://github.com/JoseHervas/corby)
